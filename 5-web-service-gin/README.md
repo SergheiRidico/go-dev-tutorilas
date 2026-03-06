@@ -18,7 +18,7 @@ The service contains the following endpoints:
 
 ---
 
-### How to run:
+### How to run
 
 ```bash
 $ go run .
